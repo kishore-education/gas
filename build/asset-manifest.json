@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/gaswaala/static/css/main.c2d35f94.css",
-    "main.js": "/gaswaala/static/js/main.982048a0.js",
+    "main.js": "/gaswaala/static/js/main.e4e629cc.js",
     "static/js/453.ed3810f9.chunk.js": "/gaswaala/static/js/453.ed3810f9.chunk.js",
     "index.html": "/gaswaala/index.html",
     "main.c2d35f94.css.map": "/gaswaala/static/css/main.c2d35f94.css.map",
-    "main.982048a0.js.map": "/gaswaala/static/js/main.982048a0.js.map",
+    "main.e4e629cc.js.map": "/gaswaala/static/js/main.e4e629cc.js.map",
     "453.ed3810f9.chunk.js.map": "/gaswaala/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c2d35f94.css",
-    "static/js/main.982048a0.js"
+    "static/js/main.e4e629cc.js"
   ]
 }
